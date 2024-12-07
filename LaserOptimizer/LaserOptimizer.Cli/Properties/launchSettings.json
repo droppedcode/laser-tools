@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LaserOptimizer.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "-f f:\\Work\\wood\\kata-scrabble-kep\\kep.svg"
+    }
+  }
+}

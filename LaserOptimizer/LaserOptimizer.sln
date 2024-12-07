@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserOptimizer.Cli", "LaserOptimizer.Cli\LaserOptimizer.Cli.csproj", "{8A31AB31-3536-4D9F-A488-1633E3DF20D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserOptimizer.Core", "LaserOptimizer.Core\LaserOptimizer.Core.csproj", "{6C985FE2-0D6D-46B8-9294-DB3BB8112F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A31AB31-3536-4D9F-A488-1633E3DF20D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A31AB31-3536-4D9F-A488-1633E3DF20D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A31AB31-3536-4D9F-A488-1633E3DF20D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A31AB31-3536-4D9F-A488-1633E3DF20D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C985FE2-0D6D-46B8-9294-DB3BB8112F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C985FE2-0D6D-46B8-9294-DB3BB8112F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C985FE2-0D6D-46B8-9294-DB3BB8112F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C985FE2-0D6D-46B8-9294-DB3BB8112F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
